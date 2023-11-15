@@ -2,11 +2,4 @@
 
 ## Dependencies
 
-python-dotenv
-psycopg
-psycopg2
-pandas
-matplotlib
-seaborn
-ipywidgets
-voila
+python-dotenv, psycopg, psycopg2, pandas, matplotlib, seaborn, ipywidgets, sqlalchemy, voila
